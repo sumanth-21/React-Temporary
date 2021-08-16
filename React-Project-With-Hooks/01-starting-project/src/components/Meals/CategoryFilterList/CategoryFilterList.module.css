@@ -1,0 +1,11 @@
+/* .productFilterContainer {
+    position: fixed;
+    top: 20%;
+    right: 10%;
+    padding: 40px;
+    width: 20%;
+    box-shadow: 0 0 7px #00000029;
+} */
+.productFilterContainer p {
+    font-size: 24px;
+}

@@ -1,0 +1,36 @@
+{
+	"tables": [{
+			"id": 1,
+			"capacity": 2,
+			"slots": [{
+				"morning": 1
+			}, {
+				"afternoon": 1
+			}, {
+				"evening": 1
+			}]
+		},
+		{
+			"id": 2,
+			"capacity": 4,
+			"slots": [{
+				"morning": 1
+			}, {
+				"afternoon": 1
+			}, {
+				"evening": 1
+			}]
+		},
+		{
+			"id": 3,
+			"capacity": 6,
+			"slots": [{
+				"morning": 1
+			}, {
+				"afternoon": 1
+			}, {
+				"evening": 1
+			}]
+		}
+	]
+}

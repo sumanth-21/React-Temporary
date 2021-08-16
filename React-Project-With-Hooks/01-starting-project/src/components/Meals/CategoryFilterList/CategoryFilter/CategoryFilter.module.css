@@ -1,0 +1,8 @@
+.productFilter div {
+    margin: 10px 0;
+}
+
+.productFilter div label{
+    font-weight: 600;
+    padding-left: 10px;
+}
